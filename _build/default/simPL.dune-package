@@ -1,0 +1,4 @@
+(lang dune 3.12)
+(name simPL)
+(sections (lib .))
+(files (lib (META dune-package opam)))
